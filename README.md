@@ -21,7 +21,7 @@ More details at: https://medium.com/@ali.haydar/email-verification-gmail-helper-
 
 When doing E2E tests, lots of times the email verification are skipped because of the hassle of implementation, and the dependencies on external services (e.g. an email client).
 
-```
+```javascript
 // retrieve the content of an email message
 import { getMessageContent } from 'gmailHelper';
 
