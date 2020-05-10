@@ -34,7 +34,7 @@ expect(messageContent).to.have.string('bar'); // This requires to have Chai inst
 Same as Installation -  to re-create the project from scratch check the following post: https://medium.com/@ali.haydar/email-verification-gmail-helper-utility-2e6858d83244 
 
 ## Meta
-Ali Haydar – [@Alee_Haydar]https://twitter.com/Alee_Haydar)
+Ali Haydar – [@Alee_Haydar](https://twitter.com/Alee_Haydar)
 
 This project does not require a Contributor License Agreement.
 
