@@ -4,7 +4,7 @@
 A set of functions that can be used to interact with a gmail account (e.g. retrieve labels, messages, delete messages, etc.). Could be used in E2E tests to verify emails sent from the system under test.
 More details at: https://medium.com/@ali.haydar/email-verification-gmail-helper-utility-2e6858d83244
 
-* Note: this project server as a poc at the moment. It is not complete and misses a few functions to be fully functional (e.g. list Messages). Contributions are most welcome
+* Note: this project is a poc at the moment. It is not complete and misses a few functions to be fully functional (e.g. list Messages). Contributions are most welcome
 
 ## Setup
 
