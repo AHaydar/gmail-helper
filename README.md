@@ -1,5 +1,5 @@
 # Gmail helper
-> Email verification using gmail
+> Email verification using gmail api
 
 A set of functions that can be used to interact with a gmail account (e.g. retrieve labels, messages, delete messages, etc.). Could be used in E2E tests to verify emails sent from the system under test.
 More details at: https://medium.com/@ali.haydar/email-verification-gmail-helper-utility-2e6858d83244
